@@ -4,12 +4,12 @@ Summary:	Serene linux tools
 	
 Version:	0.0.1
 	
-Release:	2%{?dist}
+Release:	3%{?dist}
 
 License:	MIT
 
 BuildArch:	noarch
-Requires: serene-autostart
+Requires: serene-autostart mugshot_wrapper
 	
 %description
 
